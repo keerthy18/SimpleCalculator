@@ -1,0 +1,74 @@
+/* Add this CSS code to your stylesheet or <style> tag */
+.card {
+    background-color: #f4f4f4;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 500px;
+    max-height:400px;
+    margin: -100px100px;
+    background-position: left;
+    transform: translate(10%, 0%);
+  }
+  .label{
+    font-weight:lighter;
+  }
+  
+  .card-header {
+    
+    color: white;
+    padding: 7px;
+    border-radius: 10px 10px 10px 10px;
+  }
+  
+  .card-body {
+    padding: 5px 5px;
+  }
+  
+  .form-group {
+    margin-bottom: 1px;
+  }
+  .full_class{
+    background-color:rgb(206, 165, 245);
+}
+
+  
+  .form-control {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    
+    width: 180%;
+    transition: border-color 0.2s ease-in-out;
+    
+  }
+  
+  
+  .form-control:focus {
+    border-color:  #a678f0;
+  }
+  
+  .btn-primary {
+    /* background-color:   blueviolet; */
+    width:30%;
+    
+    justify-content: center;
+    transform: translate(50%, -20%);
+    color: white;
+    border: none;
+    border-radius: 2vh;
+    padding: 5px 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  
+  .btn-link {
+    color:   #a678f0;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .btn-link:hover {
+    color:  #a678f0;
+  }
+  

@@ -1,0 +1,53 @@
+.header {
+    /* margin: 0%; */
+    background-color: #ab2ff3;
+    width: 1000px;
+    max-width: 100%;
+    position: 1000px;
+    left: 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+  }
+  
+  .logo {
+    font-size: 24px;
+  }
+  
+  .navigation {
+    display: flex;
+  }
+  
+  .navigation a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+  }
+
+  .logout{
+    justify-items: end;
+    padding-left: 500px;
+    
+  }
+  
+  .dashboard{
+    margin-left:-10px;
+  }
+
+  .CardWise{
+    margin-left:10px;
+  }
+
+  .GenderWise{
+    margin-left:-10px;
+  }
+
+  .SalesWise{
+    margin-left:-13px;
+  }
+
+  .InstitutionWise{
+    margin-left:-10px;
+  }
